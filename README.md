@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
-<p float="left">
+
 ![evanyeung's github stats](https://github-readme-stats.vercel.app/api?username=arifulbgt4&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulbgt4&layout=compact)
-</p>
+
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
