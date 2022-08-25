@@ -25,8 +25,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulbgt4&layout=compact)
 
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/arifulbgt4?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/arifulbgt4/cf-stats/main/output/light_card.svg" />
-</p>
+// <b>&#128200; Competitive Programming</b>
