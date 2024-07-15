@@ -34,7 +34,7 @@ Hi there 👋!
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions` • `Travis CI`
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
-
+![](https://komarev.com/ghpvc/?username=arifulbgt4&color=a5d6ff)
 #### How to reach me?
 
 <a href="https://www.linkedin.com/in/ariful25278">
