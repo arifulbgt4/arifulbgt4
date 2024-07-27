@@ -1,10 +1,5 @@
 Hi there 👋!
 
-#### Who I am?
-
-- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
-- See my portfolio at **[ariful.io](https://ariful.io)**.
-
 #### What I'm doing?
 
 - Writing  `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `MySQL`.
